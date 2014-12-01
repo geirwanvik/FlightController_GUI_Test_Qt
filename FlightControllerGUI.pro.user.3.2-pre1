@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 3.2.2, 2014-12-01T20:39:54. -->
+<!-- Written by QtCreator 3.1.2, 2014-11-30T16:49:59. -->
 <qtcreator>
- <data>
-  <variable>EnvironmentId</variable>
-  <value type="QByteArray">{a2817afd-5925-44a0-8a56-ef448a35a72f}</value>
- </data>
  <data>
   <variable>ProjectExplorer.Project.ActiveTarget</variable>
   <value type="int">0</value>
@@ -223,8 +219,8 @@
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">FlightControllerGUI</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">FlightControllerGUI2</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:C:/Users/EmirD/Documents/GitHub/FlightController_GUI_Test_Qt/FlightControllerGUI.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:C:/Users/GeirW/Dropbox/Stash/Git Projects/VimanaGUI_Qt/FlightControllerGUI.pro</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.CommandLineArguments"></value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">FlightControllerGUI.pro</value>
     <value type="bool" key="Qt4ProjectManager.Qt4RunConfiguration.UseDyldImageSuffix">false</value>
@@ -245,11 +241,11 @@
   <value type="int">1</value>
  </data>
  <data>
-  <variable>ProjectExplorer.Project.Updater.FileVersion</variable>
-  <value type="int">16</value>
+  <variable>ProjectExplorer.Project.Updater.EnvironmentId</variable>
+  <value type="QByteArray">{b34321df-6801-4a7a-94ff-173a9fac6295}</value>
  </data>
  <data>
-  <variable>Version</variable>
-  <value type="int">16</value>
+  <variable>ProjectExplorer.Project.Updater.FileVersion</variable>
+  <value type="int">15</value>
  </data>
 </qtcreator>
